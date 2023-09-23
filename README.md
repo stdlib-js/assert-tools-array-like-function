@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-tools-array-like-function/tags). For example,
+
+```javascript
 import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@v0.1.0-esm/index.mjs';
 ```
 
@@ -95,7 +100,7 @@ bool = f( arr2 );
 <script type="module">
 
 import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even@esm/index.mjs';
-import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@v0.1.0-esm/index.mjs';
+import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@esm/index.mjs';
 
 var arr1;
 var arr2;
