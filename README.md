@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@esm/index.mjs';
+import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@v0.2.1-esm/index.mjs';
 ```
 
 <a name="arraylikefcn"></a>
@@ -95,7 +95,7 @@ bool = f( arr2 );
 <script type="module">
 
 import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even@esm/index.mjs';
-import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@esm/index.mjs';
+import arraylikefcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-like-function@v0.2.1-esm/index.mjs';
 
 var arr1;
 var arr2;
